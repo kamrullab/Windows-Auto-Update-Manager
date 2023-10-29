@@ -1,6 +1,6 @@
 # Windows Auto Update Manager - ELITE KAMRUL 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-ELITEKAMRUL-blue)](https://github.com/kamrullab/Windows-Auto-Update-Manager)
+[![GitHub](https://img.shields.io/badge/GitHub-ELITEKAMRUL-blue)](https://github.com/kamrullab)
 
 Welcome to Windows Auto Update Manager! 🔧
 
@@ -26,7 +26,8 @@ You can get started with Windows Auto Update Manager in just a few steps. Here's
 2. Run the application and follow the on-screen instructions.
 3. Enjoy hassle-free Windows updates!
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/kamrullab/Windows-Auto-Update-Manager/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/kamrullab/Windows-Auto-Update-Manager/blob/main/Windows%20Update%20Manager%204.0.cmd) <br>
+![image](https://github.com/kamrullab/Windows-Auto-Update-Manager/assets/128359757/632131af-429c-427c-b472-dfb2d15e213e)
 
 ## Support and Contribution 🤝
 
